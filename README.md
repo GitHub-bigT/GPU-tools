@@ -1,7 +1,7 @@
-# Windows7+VS2012ÏÂOpenGL 4µÄ»·¾³ÅäÖÃ
-1.http://johnhany.net/2015/03/environment-for-opengl-4-with-vs2012/
-# ¼ì²âÏÔ¿¨ÀàĞÍºÍOpenGL°æ±¾
-1.http://blog.csdn.net/kikitaMoon/article/details/8632301
-2.¼ì²âÏÔ¿¨ÀàĞÍ£¨Windows£©£º
-	* ´ò¿ª¡°ÔËĞĞ¡±´°¿Ú¡£
-	* ÊäÈë dxdiag ½øÈë DirectXÕï¶Ï¹¤¾ß£¬¼´ÁĞ³öÏÔ¿¨ĞÅÏ¢¡£
+# Windows7+VS2012ä¸‹OpenGL 4çš„ç¯å¢ƒé…ç½®
+1. http://johnhany.net/2015/03/environment-for-opengl-4-with-vs2012/
+# æ£€æµ‹æ˜¾å¡ç±»å‹å’ŒOpenGLç‰ˆæœ¬
+1. http://blog.csdn.net/kikitaMoon/article/details/8632301
+2. æ£€æµ‹æ˜¾å¡ç±»å‹ï¼ˆWindowsï¼‰ï¼š
+	* æ‰“å¼€â€œè¿è¡Œâ€çª—å£ã€‚
+	* è¾“å…¥ dxdiag è¿›å…¥ DirectXè¯Šæ–­å·¥å…·ï¼Œå³åˆ—å‡ºæ˜¾å¡ä¿¡æ¯ã€‚
